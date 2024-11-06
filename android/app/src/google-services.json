@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107303060028",
+    "project_id": "inventory-d3f1b",
+    "storage_bucket": "inventory-d3f1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107303060028:android:a159e9a481161605f2f939",
+        "android_client_info": {
+          "package_name": "com.example.inventory_management_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1o6lQ510MXNuGrzqyXYbwF6Ko_lZFkuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
